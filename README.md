@@ -171,7 +171,7 @@ This project is intended for educational and experimental purposes in deep learn
 
 ##  Author
 
-**Meriem Sikini**
+**Meriam Sikini**
 ---
 
 *Exploring the intersection of 3D medical imaging, deep learning, and generative modeling.*
